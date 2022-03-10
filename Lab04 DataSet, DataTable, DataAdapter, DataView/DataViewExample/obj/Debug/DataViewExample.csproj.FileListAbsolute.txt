@@ -1,0 +1,9 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataViewExample\obj\Debug\DataViewExample.pdb

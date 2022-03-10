@@ -1,0 +1,10 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
