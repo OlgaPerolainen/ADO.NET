@@ -1,0 +1,10 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
