@@ -1,0 +1,10 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
