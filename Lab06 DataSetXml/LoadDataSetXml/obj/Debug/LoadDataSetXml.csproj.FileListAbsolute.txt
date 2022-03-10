@@ -1,0 +1,9 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
