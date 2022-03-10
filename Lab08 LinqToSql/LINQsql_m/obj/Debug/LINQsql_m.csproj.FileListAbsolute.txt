@@ -1,0 +1,10 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.csproj.AssemblyReference.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\LINQsql_m\obj\Debug\LINQsql_m.pdb
