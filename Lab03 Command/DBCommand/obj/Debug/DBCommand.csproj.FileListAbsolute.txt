@@ -1,0 +1,10 @@
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\wwwol\Downloads\Программирование\Курс\ADO.NET\Labs\DBCommand\obj\Debug\DBCommand.pdb
